@@ -21,7 +21,7 @@ public class Draw2D extends View {
 
         // Выводим значок из ресурсов
         Resources res = this.getResources();
-        mBitmap = BitmapFactory.decodeResource(res, R.drawable.cat_bottom);
+        mBitmap = BitmapFactory.decodeResource(res, R.drawable.cat);
     }
 
     @Override
